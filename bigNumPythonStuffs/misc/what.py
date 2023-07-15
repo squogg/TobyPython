@@ -1,0 +1,1 @@
+x=99;exec("m=[x]\nwhile m:*m,q=m;x*=x;m+=[q-1]*x*q\n"*x)
