@@ -1,4 +1,4 @@
-worm = [999]; rowNum = 999; n = 0
+worm = [1,3]; rowNum = 3; n = 0
 
 while worm != []:
     lastTerm = worm[-1]
